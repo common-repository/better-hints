@@ -1,0 +1,172 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-12-06 14:25+0100\n"
+"PO-Revision-Date: 2017-12-06 14:40+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: pll__;x__\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: index.php:332
+msgid "This is an admin-hint just for you."
+msgstr "Dies ist ein Admin-Hinweis als Test: nur für dich!"
+
+#: index.php:332
+msgid "Create one here!"
+msgstr "Jetzt hier erstellen!"
+
+#: index.php:424
+msgid "Hints"
+msgstr "Hinweise"
+
+#: index.php:425 index.php:442
+msgid "Hint"
+msgstr "Hinweis"
+
+#: index.php:426
+msgid "Add new Hint"
+msgstr "neuen Hinweis hinzufügen"
+
+#: index.php:466
+msgid "URL"
+msgstr ""
+
+#: index.php:473 index.php:475 index.php:477 index.php:479
+msgid "Pro"
+msgstr ""
+
+#: index.php:502
+msgid "empty or ID"
+msgstr "leer oder ID"
+
+#: index.php:525
+msgid "and"
+msgstr "und"
+
+#: index.php:526 index.php:726
+msgid "all"
+msgstr "alle"
+
+#: index.php:527
+msgid "guest"
+msgstr "Gast"
+
+#: index.php:528
+msgid "logged in"
+msgstr "eingeloggt"
+
+#: index.php:529
+msgid "registered"
+msgstr "angemeldet"
+
+#: index.php:532
+msgid "User"
+msgstr "Nutzer"
+
+#: index.php:672
+msgid "Clicks"
+msgstr "Klicks"
+
+#: index.php:672
+msgid "only Pro"
+msgstr "nur Pro"
+
+#: index.php:680
+msgid "Conditional Logic"
+msgstr "Bedingung"
+
+#: index.php:681
+msgid "Target-Link"
+msgstr "Ziel-Link"
+
+#: index.php:719
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: index.php:734
+msgid "when published"
+msgstr "nach Veröffentlichung"
+
+#: index.php:750
+msgid "no Link"
+msgstr "kein Link"
+
+#: index.php:802
+msgid "Hint Background-Color 1"
+msgstr "Hinweis Hintergrundfarbe 1"
+
+#: index.php:816
+msgid "Hint Background-Color 2"
+msgstr "Hinweis Hintergrundfarbe 2"
+
+#: index.php:829
+msgid "Hint Background-Color 3"
+msgstr "Hinweis Hintergrundfarbe 3"
+
+#: index.php:842
+msgid "Hint Background-Color 4"
+msgstr "Hinweis Hintergrundfarbe 4"
+
+#: index.php:854
+msgid "Hint Animation: Duration"
+msgstr "Dauer der Hinweis-Animation"
+
+#: index.php:870
+msgid "Hint Animation: Popout-Time"
+msgstr "Hinweis-Animation: Popout-Zeit"
+
+#: index.php:931
+msgid "Hint Widget"
+msgstr "Hinweis-Widget"
+
+#: index.php:934 index.php:947
+msgid "This widget holds all your hints in one place."
+msgstr "Das Widget zeigt eingesetzt deine Hinweise an."
+
+#: index.php:967 index.php:999
+msgid "Need Support?"
+msgstr "Hilfe nötig?"
+
+#: index.php:975
+msgid "Activate Pro"
+msgstr "Aktiviere Pro"
+
+#: index.php:995
+msgid "You serial key is not active."
+msgstr "Dein Key ist nicht aktiv."
+
+#: index.php:995
+msgid "Get one here!"
+msgstr "Erhalte einen hier!"
+
+#: index.php:999
+msgid "You serial key is active!"
+msgstr "Dein Key ist aktiv!"
+
+#: index.php:1007
+msgid "Check"
+msgstr "Prüfen"
+
+#: index.php:1007
+msgid "last checked:"
+msgstr "zuletzt geprüft:"
+
+#: index.php:1087
+msgid "your key expires in {days} days."
+msgstr "Dein Key läuft in {days} Tagen ab."
+
+#: index.php:1087
+msgid "Please activate it now!"
+msgstr "Bitte prüfe ihn jetzt."
+
+#~ msgid "Hint Options"
+#~ msgstr "Hinweis-Eigenschaften"
